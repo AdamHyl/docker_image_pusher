@@ -10,5 +10,5 @@
 #kubernetesui/dashboard:v2.0.3
 #kubernetesui/metrics-scraper:v1.0.4
 #registry.cn-hangzhou.aliyuncs.com/acs/minecraft-demo:1.12.2
-registry.cn-hangzhou.cr.aliyuncs.com/openkruise/kruise-manager:v1.7.0
+#registry.cn-hangzhou.cr.aliyuncs.com/openkruise/kruise-manager:v1.7.0
 registry.cn-hangzhou.aliyuncs.com/acs/kruise-game-manager:v0.9.0
