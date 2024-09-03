@@ -15,4 +15,5 @@
 #registry.cn-beijing.aliyuncs.com/chrisliu95/flappy-bird:0.1
 #registry.cn-beijing.aliyuncs.com/chrisliu95/kruise-game-open-match-director:1.0
 #registry.cn-beijing.aliyuncs.com/chrisliu95/mmf-5v5:11-8-1
-registry.cn-hangzhou.aliyuncs.com/acs/openmatch-demo-first-match:1.7.0
+#registry.cn-hangzhou.aliyuncs.com/acs/openmatch-demo-first-match:1.7.0
+registry.cn-hangzhou.aliyuncs.com/acs/openmatch-mmf-go-soloduel:1.7.0
