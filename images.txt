@@ -12,4 +12,5 @@
 #registry.cn-hangzhou.aliyuncs.com/acs/minecraft-demo:1.12.2
 #registry.cn-hangzhou.aliyuncs.com/acs/kruise-game-manager:v0.9.0
 #openkruise-registry.cn-shanghai.cr.aliyuncs.com/openkruise/kruise-manager:v1.7.0
-registry.cn-beijing.aliyuncs.com/chrisliu95/flappy-bird:0.1
+#registry.cn-beijing.aliyuncs.com/chrisliu95/flappy-bird:0.1
+registry.cn-beijing.aliyuncs.com/chrisliu95/kruise-game-open-match-director:1.0
