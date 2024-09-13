@@ -29,4 +29,4 @@
 #gcr.io/open-match-public-images/openmatch-demo-first-match:1.8.0
 #ghcr.io/kedacore/keda-metrics-apiserver:2.10.1
 #ghcr.io/kedacore/keda:2.10.1
-keda-admission-webhooks:2.10.1
+ghcr.io/kedacore/keda-admission-webhooks:2.10.1
