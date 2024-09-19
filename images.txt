@@ -31,4 +31,4 @@
 #ghcr.io/kedacore/keda:2.10.1
 #ghcr.io/kedacore/keda-admission-webhooks:2.10.1
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
-registry.cn-beijing.aliyuncs.com/kubesphere/kubectl:v1.27.4
+docker.io/kubesphere/kubectl:v1.27.4
