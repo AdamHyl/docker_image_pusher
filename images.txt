@@ -35,5 +35,5 @@
 #hashicorp/consul:1.15.4
 #hashicorp/consul-k8s-control-plane:1.1.3
 #hashicorp/consul-dataplane:1.1.3
-registry.k8s.io/ingress-nginx/controller
-registry.k8s.io/ingress-nginx/kube-webhook-certgen
+ingress-nginx/controller
+ingress-nginx/kube-webhook-certgen
